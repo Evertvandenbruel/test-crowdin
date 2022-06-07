@@ -3,5 +3,5 @@ fr:
     attributes:
       test:
         ends_at: Einddatum
-        note: Notitie
+        note: Notifier
         starts_at: Startdatum
