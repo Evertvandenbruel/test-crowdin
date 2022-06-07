@@ -2,6 +2,6 @@ nl:
   activerecord:
     attributes:
       test:
-        ends_at: Einddatum
+        ends_at: Eind datum
         note: Notitie
-        starts_at: Startdatum
+        starts_at: Start datum
