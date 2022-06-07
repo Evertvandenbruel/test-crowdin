@@ -1,0 +1,7 @@
+de:
+  activerecord:
+    attributes:
+      test:
+        ends_at: Einddatum
+        note: Notitie
+        starts_at: Startdatum
