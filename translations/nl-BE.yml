@@ -7,3 +7,4 @@ nl-BE:
         starts_at: Start
         adasda: asdasda
         duckduck: Start
+        unanswered_request: "Hi %{advertiser_first_name},\\r\n\\r\n Jake from Goboony here 🚐 hope you are well!\\r\n You have an unanswered request from someone who wants to book your motorhome. Please respond to this request ASAP to avoid losing this booking and help %{traveller_first_name} get their holiday to the next step. Please note that not responding to requests within 24 hours automatically cancels the request.\\r\n\\r\n If you have any questions or need any help please let us know ASAP!\\r\n\\r\n Kind regards,\\r\n\\r\n Jake 🌞"
