@@ -1,0 +1,3 @@
+files:
+  - source: /goboony_source.yml
+    translation: /translations/%locale%.%file_extension%
