@@ -1,3 +1,0 @@
-files:
-  - source: /nl.yml
-    translation: /translations/%two_letters_code%.yml
