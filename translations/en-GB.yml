@@ -1,0 +1,7 @@
+en-GB:
+  activerecord:
+    attributes:
+      test:
+        ends_at: End date
+        note: Note
+        starts_at: Start date
