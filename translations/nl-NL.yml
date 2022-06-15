@@ -2,7 +2,7 @@ nl:
   activerecord:
     attributes:
       test:
-        ends_at: Ends at
+        ends_at: Eind datum
         note: Notitie
         starts_at: Start
         adasda: asdasda
