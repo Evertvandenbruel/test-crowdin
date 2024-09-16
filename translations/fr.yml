@@ -1,0 +1,7 @@
+fr:
+  activerecord:
+    attributes:
+      test:
+        ends_at: Einddatum
+        note: Notifier
+        starts_at: Startdatum
